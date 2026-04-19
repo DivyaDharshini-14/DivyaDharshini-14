@@ -11,7 +11,7 @@
 
 Full Stack Laravel Developer with hands-on experience designing scalable backend systems and high-performance REST APIs using Laravel, PHP, MySQL, React.js, and Inertia.js.
 
-Built and maintained **200+ production-grade APIs**, implemented **RBAC authentication systems**, optimized database performance, and contributed to **multi-tenant SaaS platforms supporting 4K+ users**.
+Built and maintained **80+ production-grade APIs**, implemented **RBAC authentication systems**, optimized database performance, and contributed to **multi-tenant SaaS platforms supporting 4K+ users**.
 
 Strong focus on clean architecture, performance optimization, and scalable backend engineering.
 
